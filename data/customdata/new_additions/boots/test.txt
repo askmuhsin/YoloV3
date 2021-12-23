@@ -1,0 +1,2 @@
+./Images/boots//WH_boots_10.jpg
+./Images/boots//WH_boots_20.jpg

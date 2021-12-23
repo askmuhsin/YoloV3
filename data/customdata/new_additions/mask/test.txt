@@ -1,0 +1,2 @@
+./Images/mask//WH_mask_10.jpg
+./Images/mask//WH_mask_20.jpg
